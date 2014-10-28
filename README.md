@@ -1,6 +1,6 @@
-learning-react
+Learning ReactJS
 ==============
 
-## React resources for learning
+### React resources for learning
 
 - [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html)
