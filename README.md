@@ -1,4 +1,4 @@
-Learning ReactJS
+Learning React
 ==============
 
 ### React resources for learning
