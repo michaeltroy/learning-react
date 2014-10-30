@@ -5,6 +5,7 @@ Learning React
 
 - [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html)
 
-### Server side rendering
+### Server-side rendering
 
 - [Rendering React Components on the Server](http://www.princeton.edu/~crmarsh/react-ssr/)
+- [React server example](https://github.com/mhart/react-server-example)
